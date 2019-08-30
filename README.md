@@ -9,8 +9,7 @@ Remember: if you are stuck, ask a mentor for help!
 
 ## Setup 
 We are going to be using codesandbox.io: an online editor that can be used to create and deploy web applications. 
-You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one here: Create a GitHub account
-When you are logged into codesandbox.io, create a static sandbox.
+You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one [here](https://github.com/) When you are logged into codesandbox.io, create a static sandbox.
 
 
 ## To Do List: Minimum Viable Product
