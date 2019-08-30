@@ -57,9 +57,9 @@ Another Example
 Here is one that I made earlier: https://codesandbox.io/s/ly8rk88mz, if you want to know how I started or have any questions, give me (Ciara) a shout.
 
 Things That Are Useful
-Mozilla JavaScript Documentation: https://developer.mozilla.org/bm/docs/Web/JavaScript
-List Rendering: https://vuejs.org/v2/guide/list.html 
-V-for with a component: https://vuejs.org/v2/guide/list.html#v-for-with-a-Component 
-An Introduction to Dynamic List Rendering: https://medium.freecodecamp.org/an-introduction-to-dynamic-list-rendering-in-vue-js-a70eea3e321 
-Console.log: https://developer.mozilla.org/en-US/docs/Web/API/Console/log 
+* Mozilla JavaScript Documentation: https://developer.mozilla.org/bm/docs/Web/JavaScript
+* List Rendering: https://vuejs.org/v2/guide/list.html 
+* V-for with a component: https://vuejs.org/v2/guide/list.html#v-for-with-a-Component 
+* An Introduction to Dynamic List Rendering: https://medium.freecodecamp.org/an-introduction-to-dynamic-list-rendering-in-vue-js-a70eea3e321 
+* Console.log: https://developer.mozilla.org/en-US/docs/Web/API/Console/log 
 
