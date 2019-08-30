@@ -1,6 +1,7 @@
 
 # Coffee&amp;Code#002: ToDo List - JavaScript &amp; Vue.js
 ### Created by Caroline Chan and Ciara Magee
+### Guest mentors: Paul McBride and David Cutting
 
 ## Today’s challenge:
 We are going to be creating a To Do List application using HTML, CSS, and JavaScript. There is also the option (please see below Level 2) to build the To Do List in Vue.js if you’d like to try it.
