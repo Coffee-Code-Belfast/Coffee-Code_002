@@ -38,8 +38,7 @@ Vue is a JavaScript framework that can be used to create user interface: https:/
 
 ## Setup
 We are going to be using codesandbox.io: an online editor that can be used to create and deploy web applications
-You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one here: Create a GitHub account
-When you are logged into codesandbox.io, create a Vue sandbox.
+You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one [here](https://github.com/) When you are logged into codesandbox.io, create a Vue sandbox.
 
 ## Starting Points
 What do you want a to do list item to look like?  Vue is really cool and will allow us to write code - called a component -  for a to do list item that can be used for every item in our todo list. 
