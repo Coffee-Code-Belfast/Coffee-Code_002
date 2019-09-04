@@ -38,7 +38,7 @@ As an additional challenge you can also try creating the To Do List application 
 Vue is a JavaScript framework that can be used to create user interface: https://vuejs.org/ 
 
 ## Setup
-We are going to be using codesandbox.io: an online editor that can be used to create and deploy web applications
+We are going to be using [codesandbox.io](https://codesandbox.io): an online editor that can be used to create and deploy web applications
 You can sign in to codesandbox.io using a github account. If you do not currently have one, you can create one [here](https://github.com/) When you are logged into codesandbox.io, create a Vue sandbox.
 
 ## Starting Points
